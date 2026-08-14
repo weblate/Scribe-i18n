@@ -9527,6 +9527,30 @@
         }
       }
     },
+    "i18n.app.settings.keyboard.functionality.auto_space_punctuation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Auto-space punctuation"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard.functionality.auto_space_punctuation_description" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Automatically adjust spaces around punctuation marks."
+          }
+        }
+      }
+    },
     "i18n.app.settings.keyboard.functionality.auto_suggest_emoji" : {
       "comment" : "",
       "localizations" : {
