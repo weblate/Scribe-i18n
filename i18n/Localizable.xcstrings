@@ -4919,8 +4919,9 @@
         }
       }
     },
-    "i18n.app.about.legal.third_party.text" : {
+    "i18n.app.about.legal.third_party.text_1" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5022,6 +5023,30 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe geliştiricileri (SCRIBE), \"Scribe - Language Keyboards\" adlı iOS uygulamasını (HİZMET) üçüncü taraf kodları kullanarak oluşturdu. Bu HİZMET'in oluşturulmasında kullanılan tüm kaynak kodları, bu HİZMET tarafından yapılan şekilde tamamen kullanılmasına izin veren kaynaklardan gelmektedir. Bu bölüm, HİZMET'in temel aldığı kaynak kodları ve her birinin denk gelen lisanslarını listeler.\n\nAşağıda kullanılan tüm kaynak kodlarının, kodun ana yazarı veya yazarlarının, kullanım sırasında yayınlanan lisansının ve lisansın bir bağlantısının bir listesi bulunmaktadır."
+          }
+        }
+      }
+    },
+    "i18n.app.about.legal.third_party.text_2" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Additionally, this SERVICE bundles word-prediction dictionaries sourced from the Helium314 aosp-dictionaries project, available at https://codeberg.org/Helium314/aosp-dictionaries. These dictionaries are compiled from openly licensed word lists; the specific lists used by this SERVICE are released primarily under the Creative Commons Attribution 4.0 License (CC BY 4.0), with full per-language source and license details listed in that project's README. The compiled dictionary files themselves are distributed under the GNU General Public License v3.0 (GPL-3.0), available at https://codeberg.org/Helium314/aosp-dictionaries/src/branch/main/LICENSE."
+          }
+        }
+      }
+    },
+    "i18n.app.about.legal.third_party.text_3" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "The word-prediction and autocomplete engine used by this SERVICE is based on the dictionary engine from HeliBoard by Helium314, which is itself derived from the Android Open Source Project (AOSP) LatinIME keyboard. HeliBoard is released under a GPL-3.0 license, with this license being available at https://github.com/Helium314/HeliBoard/blob/main/LICENSE."
           }
         }
       }
